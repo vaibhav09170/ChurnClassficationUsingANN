@@ -1,0 +1,7 @@
+tensorflow-gpu==2.9.1
+tensorboard
+pandas
+numpy<2.0
+scikit-learn
+matplotlib
+streamlit
